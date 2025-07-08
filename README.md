@@ -1,7 +1,7 @@
 # ghalaDS.github.io
- Personal portfolio website made with HTML, CSS, and JavaScript.
-Ghala's Personal Portfolio
-This is my personal portfolio website, designed and built to showcase my skills, interests, and journey as a data science student.
+Personal portfolio website made with HTML, CSS, and JavaScript.
+This is my Personal portfolio website made with HTML, CSS, and JavaScript.
+designed and built to showcase my skills, interests, and journey as a data science student.
 
 # Overview
 The website includes:
@@ -26,18 +26,6 @@ JavaScript
 Deployed using GitHub Pages
 
 # Project Structure
-bash
-نسخ
-تحرير
-/
-├── index.html           # Main homepage
-├── intro.html           # Splash screen
-├── more.html            # About page
-├── contact.html         # Contact page
-├── css/
-│   ├── style.css
-│   ├── intro.css
-│   ├── more-style.css
-│   └── contact-style.css
-└── js/
-    └── script.js
+<pre> ``` / ├── index.html # Main homepage ├── intro.html # Splash screen ├── more.html # About page ├── contact.html # Contact page ├── css/ │ ├── style.css │ ├── intro.css │ ├── more-style.css │ └── contact-style.css └── js/ └── script.js ``` </pre>
+
+# Live Demo
