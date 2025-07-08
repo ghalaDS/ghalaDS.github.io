@@ -26,6 +26,7 @@ JavaScript
 Deployed using GitHub Pages
 
 # Project Structure
+```
 /
 ├── intro.html           # Splash screen
 ├── index.html           # Main homepage
@@ -38,5 +39,6 @@ Deployed using GitHub Pages
 │   └── contact-style.css
 └── js/
     └── script.js
+```
 
 # Live Demo
