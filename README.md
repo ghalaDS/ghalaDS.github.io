@@ -42,4 +42,5 @@ Deployed using GitHub Pages
 ```
 
 # Live Demo
-https://ghalaDS.github.io
+https://ghalads.github.io/intro.html
+
