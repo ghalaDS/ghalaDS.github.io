@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: linear-gradient(to right, #e7b8d8, #d6a2cb);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.splash h1 {
+  color: white;
+  font-size: 48px;
+  font-family: 'Times New Roman', serif;
+  opacity: 1;
+  animation: fadeOut 1s ease 2s forwards;
+}
+
+@keyframes fadeOut {
+  to {
+    opacity: 0;
+  }
+}

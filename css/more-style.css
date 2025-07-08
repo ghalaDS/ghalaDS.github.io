@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  padding: 40px;
+  background-color: #f6f6f6;
+  font-family: 'Times New Roman', Times, serif;
+  color: #444;
+}
+
+.navbar {
+  display: flex;
+  gap: 20px;
+  padding: 20px 40px;
+  font-size: 18px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #444;
+}
+
+.navbar a:hover {
+  color: #e7b8d8;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.about-box {
+  background-color: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  margin-bottom: 40px;
+}
+
+.about-box h2 {
+  margin-top: 0;
+  border-bottom: 2px solid #e7b8d8;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+.about-box p {
+  line-height: 1.7;
+  font-size: 18px;
+}
+
+.skills-section h2 {
+  margin-bottom: 20px;
+  border-bottom: 2px solid #e7b8d8;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; 
+  gap: 20px;
+}
+
+.skill-card {
+  width: 140px;            /* عرض ثابت */
+  height: 80px;            /* ارتفاع ثابت */
+  border: 2px solid #e7b8d8;
+  border-radius: 10px;
+  font-size: 15px;         /* تصغير الخط */
+  display: flex;           /* توسيط المحتوى */
+  align-items: center;     /* توسيط عمودي */
+  justify-content: center; /* توسيط أفقي */
+  text-align: center;
+  font-weight: bold;
+  background-color: #fff;
+  transition: transform 0.2s ease;
+}
+
+
+.skill-card:hover {
+  transform: scale(1.05);
+  background-color: #f0e0eb;
+}
