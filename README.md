@@ -26,6 +26,17 @@ JavaScript
 Deployed using GitHub Pages
 
 # Project Structure
-<pre> ``` / ├── index.html # Main homepage ├── intro.html # Splash screen ├── more.html # About page ├── contact.html # Contact page ├── css/ │ ├── style.css │ ├── intro.css │ ├── more-style.css │ └── contact-style.css └── js/ └── script.js ``` </pre>
+/
+├── intro.html           # Splash screen
+├── index.html           # Main homepage
+├── more.html            # About page
+├── contact.html         # Contact page
+├── css/
+│   ├── style.css
+│   ├── intro.css
+│   ├── more-style.css
+│   └── contact-style.css
+└── js/
+    └── script.js
 
 # Live Demo
